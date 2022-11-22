@@ -5,3 +5,5 @@ Full Professional Proficiency in English – strong written and verbal communica
 Experience in delivering functional reporting solutions in independent and team structure
 Experience of developing dashboards or reports based on common visualization tools including PowerBI
 Ability to demonstrate experience with data analysis, internal and external research, identification and communication of leading practices, and continuous improvement of solutio]
+
+[]
