@@ -2,7 +2,7 @@
 
 [Link1](https://www.indeed.com/viewjob?jk=e7855978c9164d7a&tk=1gifsotl7mb1p800&from=serp&vjs=3)
 
-[Skills: 
+[Skills:
 
 + Advanced experience in programming language (i.e SQL), Excel, 
 +  Microsoft Power Platform
